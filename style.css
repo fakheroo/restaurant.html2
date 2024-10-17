@@ -1,0 +1,81 @@
+#navbarNav {
+    display: flex ;
+    justify-content: flex-end ;
+}
+
+.hero_section {
+    background-image: url(cropped-logo-cugini-web-1-scaled-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    flex: auto;
+    height: 500px;
+    padding: 65px;
+
+
+}
+.Menu {
+    display: flex;
+    background-image: url("agence.jpg");
+    background-size: cover;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    height: 300px;
+    background-position: center;
+    align-content: flex-start;
+    width: 100%;
+    padding: 10px;
+  text-align: center;
+
+
+}
+    
+
+
+.img_description {
+    display: flex;
+    flex-direction: row-reverse;
+    background-size: cover;
+    justify-content: space-around;
+    background-color: rgba(22, 22, 22, 0.666);
+    width: 100%;
+    height: 180px;
+   padding: 5px;
+   text-align: center;
+   align-content: flex-start;
+   margin: auto;
+
+}
+
+.text {
+    color: ghostwhite;
+
+}
+
+
+.Contact {  
+    background-color: black;
+    height: 400px;
+    
+}
+    
+
+
+.text4 {
+color: aliceblue;
+text-align-last: justify;
+
+}
+
+
+
+.icons {
+    font-size: 100px;
+    text-align: right ;
+    padding: 80px;
+}
+.img_description h2 {
+    margin-top: 5%;
+    
+}
